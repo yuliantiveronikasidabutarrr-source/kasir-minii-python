@@ -20,6 +20,6 @@ Algoritma dan Pemrograman.
 
 ## Cara Menjalankan
 ```bash
-python kasir_mini.py
+kasir minii.py
 ```
 
